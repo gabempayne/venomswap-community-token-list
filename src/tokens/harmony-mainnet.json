@@ -230,5 +230,13 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+    {
+    "chainId": 1666600000,
+    "address": "0xED987e26C96f7098EE33d87F3F2771721AB52335",
+    "symbol": "GNAR",
+    "name": "Gnarbill",
+    "decimals": 18,
+    "logoURI": "https://ibb.co/nDXnBsd"
   }
 ]
